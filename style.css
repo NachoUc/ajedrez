@@ -1,0 +1,67 @@
+.body{
+    background-color: cadetblue;
+
+}
+div.todo{
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+}
+h1.titulo{
+    color: darkcyan;
+    text-shadow: 4px 1px 1px white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+hr.hr{
+    width: 800px;
+    background-color: aquamarine;
+    border: solid teal;
+}
+p.parafo1{
+
+    width: 600px;
+    display: flex;
+ align-items: flex;
+}
+div.imagen{
+
+ display: flex;
+ align-items: flex;
+ display: inline-block;
+ border: solid;
+ height: 150px;
+ 
+}
+h2.titulo23{
+    color: teal;
+
+}
+td.tabla{
+  border: solid white;
+      width: 150px; 
+        height: 150px;
+        text-align: center;
+
+}
+table.tabla1{
+    border-spacing: 30px;
+}
+div.primera{
+    float: right;
+
+}
+tr.parte1{
+    height: 44px;
+}
+img{
+    margin-left: 20px;
+    width: 160px;
+    display: flex;
+    float: right;
+    padding: 10px;
+    border: 3px solid black;
+
+    
+}
